@@ -1,0 +1,17 @@
+[package]
+name = "b3-gpu"
+description = "A lightweight wrapper for Vulkan"
+authors = ["Denis Sologub <ds.sologub@ya.ru>"]
+version = "0.1.2"
+edition = "2021"
+license-file = "LICENSE"
+repository = "https://github.com/Klein-Stein/b3-gpu"
+homepage = "https://github.com/Klein-Stein/b3-gpu"
+readme = "README.md"
+keywords = ["b3"]
+categories = ["os"]
+documentation = "https://docs.rs/crate/b3-gpu/latest"
+exclude = [
+    ".vscode/*",
+    "github/*",
+]
