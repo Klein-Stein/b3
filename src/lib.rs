@@ -1,4 +1,4 @@
-//! A lightweight wrapper for Vulkan.
+//! A cross-platform UI framework.
 
 #![warn(missing_docs)]
 

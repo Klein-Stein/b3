@@ -3,5 +3,14 @@
 version = 3
 
 [[package]]
-name = "b3-gpu"
+name = "b3"
 version = "0.1.2"
+dependencies = [
+ "b3-display-handler",
+]
+
+[[package]]
+name = "b3-display-handler"
+version = "0.1.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "6bf279efc6a023a628f6615832a2d0abb66686435173f98dedca7d3e1376e345"

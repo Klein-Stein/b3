@@ -1,9 +1,9 @@
-# B3. GPU
+# B3
 
-![GitHub License](https://img.shields.io/github/license/Klein-Stein/b3-gpu)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Klein-Stein/b3-gpu/rust.yml)
+![GitHub License](https://img.shields.io/github/license/Klein-Stein/b3)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Klein-Stein/b3/rust.yml)
 
-**B3. GPU** is a lightweight Rust-wrapper for Vulkan.
+**B3** is a cross-platform UI framework.
 
 ## Repository
 
@@ -11,19 +11,19 @@ If you want to make a **Pull Request** or open a new **Issue**, please, make sur
 
 **Main:**
 
-- **GitHub**: <https://github.com/Klein-Stein/b3-gpu>
+- **GitHub**: <https://github.com/Klein-Stein/b3>
 
 **Mirror:**
 
-- **GitFlic**: <https://gitflic.ru/project/klein-stein/b3-gpu>
+- **GitFlic**: <https://gitflic.ru/project/klein-stein/b3>
 
 ## Documentation
 
-<https://docs.rs/crate/b3-gpu/latest>
+<https://docs.rs/crate/b3/latest>
 
 ## Roadmap
 
-- [ ] Vulkan support
+- [ ] Canvas support
 
 ## License
 
