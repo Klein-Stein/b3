@@ -2,7 +2,7 @@
 name = "b3"
 description = "A cross-platform UI framework"
 authors = ["Denis Sologub <ds.sologub@ya.ru>"]
-version = "0.1.2"
+version = "0.1.0"
 edition = "2021"
 license-file = "LICENSE"
 repository = "https://github.com/Klein-Stein/b3"

@@ -3,6 +3,8 @@
 ![GitHub License](https://img.shields.io/github/license/Klein-Stein/b3)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Klein-Stein/b3/rust.yml)
 
+**⚠️WARNING** The project is under active development. The current codebase may be unstable and incomplete, and the API may be significantly changed in future versions. At this stage, it is highly discouraged to use this crate in the release build.
+
 **B3** is a cross-platform UI framework.
 
 ## Repository
