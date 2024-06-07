@@ -1,5 +1,7 @@
 # B3. Framework
 
+![Crates.io Version](https://img.shields.io/crates/v/b3-framework?cacheSeconds=60&link=https%3A%2F%2Fcrates.io%2Fcrates%2Fb3-framework)
+![docs.rs](https://img.shields.io/docsrs/b3-framework?cacheSeconds=60&link=https%3A%2F%2Fdocs.rs%2Fcrate%2Fb3-framework%2Flatest)
 ![GitHub License](https://img.shields.io/github/license/Klein-Stein/b3-framework)
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/Klein-Stein/b3-framework/rust.yml)
 
