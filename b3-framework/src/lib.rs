@@ -2,5 +2,10 @@
 
 #![warn(missing_docs)]
 
-/// Stub function.
-pub fn test() {}
+mod window;
+
+#[doc(inline)]
+pub use b3_core as core;
+#[doc(inline)]
+pub use b3_gui as gui;
+pub use window::*;

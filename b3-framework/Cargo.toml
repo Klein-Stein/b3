@@ -16,3 +16,4 @@ documentation = "https://docs.rs/crate/b3-framework/latest"
 b3-core = { version = "0.4.0", features = ["dh", "notifications"] }
 b3-display-handler = "0.1.2"
 b3-gui = { path = "../b3-gui" }
+typed-builder = "0.18.2"
