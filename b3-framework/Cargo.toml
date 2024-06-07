@@ -1,0 +1,18 @@
+[package]
+name = "b3-framework"
+description = "Cross-platform UI framework"
+authors = ["Denis Sologub <ds.sologub@ya.ru>"]
+version = "0.1.0"
+edition = "2021"
+license-file = "../LICENSE"
+repository = "https://github.com/Klein-Stein/b3-framework"
+homepage = "https://github.com/Klein-Stein/b3-framework"
+readme = "../README.md"
+keywords = ["b3"]
+categories = ["os"]
+documentation = "https://docs.rs/crate/b3-framework/latest"
+
+[dependencies]
+b3-core = { version = "0.4.0", features = ["dh", "notifications"] }
+b3-display-handler = "0.1.2"
+b3-gui = { path = "../b3-gui" }

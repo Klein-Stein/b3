@@ -1,20 +1,6 @@
-[package]
-name = "b3-framework"
-description = "A cross-platform UI framework"
-authors = ["Denis Sologub <ds.sologub@ya.ru>"]
-version = "0.1.0"
-edition = "2021"
-license-file = "LICENSE"
-repository = "https://github.com/Klein-Stein/b3-framework"
-homepage = "https://github.com/Klein-Stein/b3-framework"
-readme = "README.md"
-keywords = ["b3"]
-categories = ["os"]
-documentation = "https://docs.rs/crate/b3-framework/latest"
-exclude = [
-    ".vscode/*",
-    "github/*",
+[workspace]
+members = [
+    "b3-gui",
+    "b3-framework",
 ]
-
-[dependencies]
-b3-display-handler = "0.1.2"
+resolver = "2"
