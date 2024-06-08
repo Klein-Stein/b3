@@ -1,4 +1,5 @@
 use b3_core::{ActiveApplication, Window, WindowId};
+use b3_gui::canvas::Canvas;
 
 /// A window that contains GUI elements.
 ///
@@ -7,6 +8,8 @@ use b3_core::{ActiveApplication, Window, WindowId};
 pub struct GUIWindow {
     /// Window.
     window: Window,
+    /// Canvas.
+    canvas: Canvas,
 }
 
 impl GUIWindow {

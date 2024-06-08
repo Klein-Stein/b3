@@ -12,5 +12,12 @@ keywords = ["b3"]
 categories = ["os"]
 documentation = "https://docs.rs/crate/b3-canvas/latest"
 
+[package.metadata.docs.rs]
+all-features = true
+
 [dependencies]
 b3-display-handler = "0.1.2"
+dpi = { version = "0.1.1", optional = true }
+
+[features]
+dpi = ["dep:dpi"]
