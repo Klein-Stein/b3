@@ -3,6 +3,13 @@
 version = 3
 
 [[package]]
+name = "b3-canvas"
+version = "0.1.0"
+dependencies = [
+ "b3-display-handler",
+]
+
+[[package]]
 name = "b3-core"
 version = "0.4.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -38,7 +45,7 @@ dependencies = [
 name = "b3-gui"
 version = "0.1.0"
 dependencies = [
- "b3-display-handler",
+ "b3-canvas",
 ]
 
 [[package]]

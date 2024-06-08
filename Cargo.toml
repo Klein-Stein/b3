@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "b3-gui",
+    "b3-canvas",
     "b3-framework",
 ]
 resolver = "2"

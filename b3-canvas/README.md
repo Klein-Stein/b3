@@ -1,12 +1,12 @@
-# B3. GUI
+# B3. Canvas
 
-![Crates.io Version](https://img.shields.io/crates/v/b3-gui?cacheSeconds=60&link=https%3A%2F%2Fcrates.io%2Fcrates%2Fb3-gui)
-![docs.rs](https://img.shields.io/docsrs/b3-gui?cacheSeconds=60&link=https%3A%2F%2Fdocs.rs%2Fcrate%2Fb3-gui%2Flatest)
+![Crates.io Version](https://img.shields.io/crates/v/b3-canvas?cacheSeconds=60&link=https%3A%2F%2Fcrates.io%2Fcrates%2Fb3-canvas)
+![docs.rs](https://img.shields.io/docsrs/b3-canvas?cacheSeconds=60&link=https%3A%2F%2Fdocs.rs%2Fcrate%2Fb3-canvas%2Flatest)
 ![GitHub License](https://img.shields.io/github/license/Klein-Stein/b3-framework)
 
 **⚠️WARNING** The project is under active development. The current codebase may be unstable and incomplete, and the API may be significantly changed in future versions. At this stage, it is highly discouraged to use this crate in the release build.
 
-**B3. GUI** is a backend independent UI framework.
+**B3. Canvas** is an abstract canvas API.
 
 ## Repository
 
@@ -22,7 +22,7 @@ If you want to make a **Pull Request** or open a new **Issue**, please, make sur
 
 ## Documentation
 
-<https://docs.rs/crate/b3-gui/latest>
+<https://docs.rs/crate/b3-canvas/latest>
 
 ## Roadmap
 

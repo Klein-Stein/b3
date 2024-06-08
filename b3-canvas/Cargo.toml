@@ -1,6 +1,6 @@
 [package]
-name = "b3-gui"
-description = "Backend-independent GUI framework"
+name = "b3-canvas"
+description = "Canvas API"
 authors = ["Denis Sologub <ds.sologub@ya.ru>"]
 version = "0.1.0"
 edition = "2021"
@@ -10,7 +10,7 @@ homepage = "https://github.com/Klein-Stein/b3-framework"
 readme = "README.md"
 keywords = ["b3"]
 categories = ["os"]
-documentation = "https://docs.rs/crate/b3-gui/latest"
+documentation = "https://docs.rs/crate/b3-canvas/latest"
 
 [dependencies]
-b3-canvas = { path = "../b3-canvas" }
+b3-display-handler = "0.1.2"
